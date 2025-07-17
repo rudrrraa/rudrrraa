@@ -12,6 +12,8 @@
 
 
 <!--
+Old linkedin headline: Student at Charotar University of Science & Technology (CHARUSAT)
+
 **rudrrraa/rudrrraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
