@@ -1,4 +1,7 @@
-## Hi there 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&text=👋+I'm+Raj+Patel&color=203a43&height=200&section=header&fontSize=50&fontColor=ffffff&animation=twinkling" />
+
+
+<!-- ## Hi there 👋 -->
 
 <!--
 **rudrrraa/rudrrraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
