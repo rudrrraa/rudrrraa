@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&text=👋+I'm+Raj+Patel&color=000080&height=200&section=header&fontSize=50&fontColor=ffffff&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&text=👋+I'm+Raj+Patel&color=121275&height=200&section=header&fontSize=50&fontColor=ffffff&animation=twinkling" />
 
 ## 💫 About Me
 
