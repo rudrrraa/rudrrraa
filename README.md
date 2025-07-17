@@ -1,7 +1,15 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&text=👋+I'm+Raj+Patel&color=203a43&height=200&section=header&fontSize=50&fontColor=ffffff&animation=twinkling" />
 
+## 💫 About Me
 
-<!-- ## Hi there 👋 -->
+- 🎓 First-year Engineering student at Charotar University of Science & Technology (CHARUSAT)
+- 🔭 Currently exploring and learning about hydrogen fuel technology
+- 🌱 Passionate about all things Automobile – design, engineering, and innovation
+- 💬 Ask me about automotive fuels, emerging technologies, and vehicle features
+
+
+<br>
+
 
 <!--
 **rudrrraa/rudrrraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
